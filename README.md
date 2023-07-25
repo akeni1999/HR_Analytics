@@ -15,6 +15,10 @@ To look at the various HR metrics I had to develop a Dashboard in Power BI, by c
 - By visualizing this data, we can identify areas where the employees are less satisfied and take necessary actions to improve their experience. Moreover, the dashboard analyzes education-wise attrition and attrition rate by gender for different age groups.
 - This allows us to identify potential disparities or biases and address them accordingly. Along with that dashboard can give insights regarding attrition by years at the company and attrition by salary slab. From there, we can get to know whether it was the less salary that was responsible for attrition or the less experience which caused the attrition.
 
+Below is the dashboard that I have designed to bring out meaningful insights.
+
+![image](https://github.com/akeni1999/HR_Analytics/assets/66996868/5697d76c-7de9-499e-a316-d906056950a8)
+
 ### Result
 
 The meaningful insights that can be gained from the analysis are as follows:
