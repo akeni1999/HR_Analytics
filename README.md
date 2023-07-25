@@ -2,7 +2,7 @@
 
 ### Situation
 
-The goal of the project is to help an organization improve employee performance and improve employee retention by analyzing the organization’s data.
+The goal of the project was to help an organization improve employee performance and improve employee retention by analyzing the organization’s data.
 
 ### Task
 
